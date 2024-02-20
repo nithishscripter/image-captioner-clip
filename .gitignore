@@ -1,0 +1,7 @@
+/venv/
+/data/
+__pycache__/
+.vscode/
+/wandb/
+test_generation.ipynb
+/weights/small/model.pt
